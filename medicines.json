@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Paracetamol",
+    "category": "Generic medicine name",
+    "search_terms": ["acetaminophen"],
+    "aliases": ["Panadol"],
+    "note": "Catalog reference only. Pharmacy stock is not checked."
+  },
+  {
+    "name": "Omeprazole",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": ["Risek"],
+    "note": "Catalog reference only. Pharmacy stock is not checked."
+  },
+  {
+    "name": "Ibuprofen",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Ask a pharmacist or clinician whether a medicine is appropriate for you."
+  },
+  {
+    "name": "Cetirizine",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Catalog reference only. Pharmacy stock is not checked."
+  },
+  {
+    "name": "Loratadine",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Catalog reference only. Pharmacy stock is not checked."
+  },
+  {
+    "name": "Oral rehydration salts",
+    "category": "Generic medicine name",
+    "search_terms": ["ORS"],
+    "aliases": [],
+    "note": "Catalog reference only. Pharmacy stock is not checked."
+  },
+  {
+    "name": "Amlodipine",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Prescription medicine; use only with professional medical guidance."
+  },
+  {
+    "name": "Metformin",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Prescription medicine; use only with professional medical guidance."
+  },
+  {
+    "name": "Amoxicillin",
+    "category": "Generic medicine name",
+    "search_terms": [],
+    "aliases": [],
+    "note": "Antibiotic. Do not start or use without a clinician's direction."
+  }
+]
